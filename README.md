@@ -40,10 +40,10 @@ src/
 └── FlowerDeliveryServiceApplicationTests.java
 
 ## Run the app
-Open FlowerDeliveryServiceApplication.java
-Click ▶️ to run
-App runs on port 8080 (even though there are no controllers yet)
+- Open FlowerDeliveryServiceApplication.java
+- Click ▶️ to run
+- App runs on port 8080 (even though there are no controllers yet)
 
-##🔧 Note: No REST controllers are implemented yet
+## 🔧 Note: No REST controllers are implemented yet
 
 Functional backend with entities, repositories, and test coverage  
