@@ -1,4 +1,4 @@
-# 🌸 Flower Delivery Service (Spring Boot + JPA + H2)
+#  Flower Delivery Service (Spring Boot + JPA + H2)
 
 This is a backend Java application for managing a flower delivery service. It uses **Spring Boot**, **JPA/Hibernate**, and an in-memory **H2 database** to handle plants, deliveries, and custom repository queries.
 
@@ -46,4 +46,4 @@ App runs on port 8080 (even though there are no controllers yet)
 
 ##🔧 Note: No REST controllers are implemented yet
 
-## Functional backend with entities, repositories, and test coverage  
+Functional backend with entities, repositories, and test coverage  
