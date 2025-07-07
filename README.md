@@ -44,6 +44,6 @@ src/
 - Click ▶️ to run
 - App runs on port 8080 (even though there are no controllers yet)
 
-## 🔧 Note: No REST controllers are implemented yet
-
 Functional backend with entities, repositories, and test coverage  
+
+## 🔧 Note: No REST controllers are implemented yet
